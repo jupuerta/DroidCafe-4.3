@@ -17,4 +17,34 @@
     <string name="donut_order_message">You ordered a donut.</string>
     <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
     <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="name">Name</string>
+    <string name="you_ordered_a_donut">You ordered a Donut</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="address">Address</string>
+    <string name="enter_address_hint">enter_address_hint</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_phone_hint">enter_phone_hint</string>
+    <string name="phone">Phone</string>
+    <string name="entry_your_phone">Entry your phone</string>
+    <string name="choose_a_delivery_method">Choose a delivery method:</string>
+    <string name="note">Note</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+    <string name="Contact">action_contact</string>
+    <string name="order">Order</string>
+    <string name="status">Status</string>
+    <string name="favorites">Favorites</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
 </resources>
